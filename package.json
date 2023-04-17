@@ -1,0 +1,25 @@
+{
+  "name": "@types/pure-react-carousel-thumbs",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for pure-react-carousel-thumbs",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tralawar/pure-react-carousel-thumbs-types.git"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "pure-react-carousel-thumbs"
+  ],
+  "author": "Tarek Alawar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tralawar/pure-react-carousel-thumbs-types/issues"
+  },
+  "homepage": "https://github.com/tralawar/pure-react-carousel-thumbs-types#readme"
+}
+
